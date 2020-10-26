@@ -1,6 +1,6 @@
 | Linux | Windows | MacOS|
 |-------|-------|-------|
-| ![](https://github.com/rebelware/fibonacci-generator/workflows/node-ci/badge.svg)  | ![](https://github.com/rebelware/fibonacci-generator/workflows/node-ci/badge.svg) | ![](https://github.com/rebelware/fibonacci-generator/workflows/node-ci/badge.svg) |
+| ![](https://github.com/sennap/fibonacci-generator/workflows/node-ci/badge.svg)  | ![](https://github.com/sennap/fibonacci-generator/workflows/node-ci/badge.svg) | ![](https://github.com/sennap/fibonacci-generator/workflows/node-ci/badge.svg) |
 # fib-tools
 
 ## Get the nth Number

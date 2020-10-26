@@ -1,5 +1,5 @@
 {
-  "name": "@rebelware/fibonacci-generator",
+  "name": "@this_is_sparsa/fibonacci-generator",
   "version": "5.9.0",
   "description": "Functions for working with the Fibonacci sequence and things",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rebelware/fibonacci-generator.git"
+    "url": "git://github.com/sennap/fibonacci-generator.git"
   },
   "author": "Bryan Cross <bryancross@github.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rebelware/fibonacci-generator/issues"
+    "url": "https://github.com/sennap/fibonacci-generator/issues"
   },
-  "homepage": "https://github.com/rebelware/fibonacci-generator#readme",
+  "homepage": "https://github.com/sennap/fibonacci-generator#readme",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "bootstrap-datepicker": "^1.8.0",
