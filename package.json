@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git://github.com/sennap/fibonacci-generator.git"
   },
-  "author": "Bryan Cross <bryancross@github.com>",
+  "author": "Senna Parsa <sennap@github.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sennap/fibonacci-generator/issues"
