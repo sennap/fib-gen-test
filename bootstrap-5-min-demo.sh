@@ -36,7 +36,7 @@ Echo "PAT: ${PAT}"
  --header 'Cookie: _octo=GH1.1.2138110587.1575167418; logged_in=no' \
  --data-raw ''
 
- curl --location --request POST 'https://api.github.com/users/sennap/repos' \
+ curl --location --request POST 'https://api.github.com/sennap/repos' \
 --header "Authorization: token ${PAT}" \
  --header 'Accept: application/vnd.github.v3+json' \
  --header 'Content-Type: application/json' \
